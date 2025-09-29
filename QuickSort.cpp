@@ -1,6 +1,3 @@
-// Aditya Bhagwan Jadhav
-// 24070123005
-
 //Abhinav Rakhunde
 //PRN:24070123001
 
